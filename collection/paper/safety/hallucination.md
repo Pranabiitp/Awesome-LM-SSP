@@ -3,7 +3,7 @@
 - [2024/08] **[A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia](https://aclanthology.org/2024.acl-long.369/)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL'24](https://img.shields.io/badge/ACL'24-f1b800)
 - [2024/06] **[Banishing LLM Hallucinations Requires Rethinking Generalization](https://arxiv.org/abs/2406.17642)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Detecting Hallucinations in Large Language Model Generation: A Token Probability Approach](https://arxiv.org/abs/2405.19648)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICAI'24](https://img.shields.io/badge/ICAI'24-f1b800)
-- [2024/05] **[Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800)
+- [2024/05] **[Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review](https://arxiv.org/abs/2405.09589)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Survey](https://img.shields.io/badge/Survey-87b800) [EMNLP Findings 2024]
 - [2024/05] **[Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval](https://arxiv.org/abs/2405.06545)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/05] **[Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/abs/2405.05904)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2024/04] **[Mitigating LLM Hallucinations via Conformal Abstention](https://arxiv.org/abs/2405.01563)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
